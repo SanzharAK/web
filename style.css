@@ -1,0 +1,117 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+body{
+    background-color: #e5e5e5;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.wrapper{
+    width: 1440px;
+    margin: 0 auto;
+}
+.nav .items-1{
+    background-color: #fff;
+    height: 93px;
+    align-items: center;
+    display: flex;
+ justify-content: space-between;    
+}
+nav .items li{
+    display: inline-block;
+    justify-content: space-between;
+    color: #0B4A72;
+    font-size: 18px;
+    padding-right: 30px;
+}
+.items-1 .items{
+    margin:0 50px;
+}
+.items-1 h1{
+    font-size: 50px;
+}
+section {
+    background-color: #FEF8F1;
+    width: inherit;
+}
+.section-1{
+    height: 459px;
+    text-align: center;
+    display: flex;
+    justify-content:center;
+    
+    
+}
+.section-1 h1{
+    font-size: 72px;
+    height: 231px;
+    width: 700px;
+    color: #0B4A72;
+    font-weight: 400;
+    display: flex;
+    margin: 150px 333px 0px;
+}
+.img img{
+    width: 1440px;
+    height: 500px;
+}
+.easy h1{
+    color: #0B4A72;
+    text-align: center;
+    padding: 137px 0px  100px 0px;
+    font-size: 48px;
+}
+.contents{
+    display:flex;
+    margin: 0 150px ;
+height: 350px;}
+
+.contents section{
+    display: block;
+    justify-content: center;
+    width: 400px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.contents section h4{
+    font-size: 24px;
+    text-align: center;
+    color: #0B4A72;
+      margin-bottom: 20px;
+      margin-top: 30px;
+}
+.contents section img{
+    margin-left: 100px; 
+}
+.contents section p{
+    text-align: center;
+    color: black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+}
+.contents-2{
+    display:flex;
+    margin: 100px 180px;
+    padding-bottom: 1500px;
+}
+.contents-2 img{
+margin-right: 150px;
+width: 700px;
+}
+.contents-2 .para{
+    text-align: center;
+    margin-top: 30px;
+    line-height: 36px;
+    font-size: 24px;
+    color: #0B4A72;
+    letter-spacing: 0.35px;
+    height: 100px;
+}
+
+.para blockquote{
+    color:#868AA2 ;
+    font-size: 13px;
+    line-height: 28px;
+    margin-top: 40px;
+}
